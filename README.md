@@ -8,7 +8,7 @@
 # The visualisation of example data taken
 <img src="Images/data.png"  
 alt="data"  
-style="float: left; margin-right: 10px;" />
+style="float: left; margin-right: 10px; width : 100px, height : 100 px" />
 
 <p>This repo contains the C++ Implementation of KD Tree, scalable algorithm for nearest neighbour search in a high dimensional data space done as a group project by Deepak, Manoj and Prajwal for the course Data Structures and Application Lab, MA2233 instructed by Dr. Balasubramaniam Jayaram at Indian Institute of Technology, Hyderabad.<p>
 
