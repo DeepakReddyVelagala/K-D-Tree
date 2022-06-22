@@ -5,7 +5,7 @@
 #include<cmath>
 #include<cstdlib>
 #include<ctime>
-#define dim 2
+#define dim 5
 
 using namespace std;
 typedef struct Node {
@@ -201,8 +201,8 @@ int main()
     tree->root = NULL;
     buildRandomKDt(tree, num);
 
-   //cout << endl << "Inorder traversal of the KD Tree" << endl;
-   // inOrderTreeWalk(tree->root);
+    //cout << endl << "Inorder traversal of the KD Tree" << endl;
+    // inOrderTreeWalk(tree->root);
     node* q = new node;
     initializePoint(q);
 
